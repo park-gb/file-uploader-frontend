@@ -1,6 +1,5 @@
 import './App.css';
 import React, {Component} from 'react';
-import axios from 'axios';
 
 class App extends Component{
   state = {
@@ -18,10 +17,6 @@ class App extends Component{
       this.state.selectedFile,
       this.state.selectedFile.name
     )
-    axios.post("https://64d5wg2ff6.execute-api.ap-northeast-2.amazonaws.com/prod/file-upload", formData).then(() => {
-      this.setState({selectedFile: null});
-      this.setState({fileUploadedSuccessfully: true});
-    })
     this.setState({selectedFile: null});
     this.setState({fileUploadedSuccessfully: true});
   }
