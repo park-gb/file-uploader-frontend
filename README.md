@@ -1,4 +1,5 @@
-# React 기반 파일 업로드 시스템
+# AWS와 React를 활용한 파일 업로드 시스템
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ## 상세 설명
 - [개인 블로그 포스팅 "파일 업로드 웹 페이지 구축: (1) React 기반 Frontend 개발"](https://heytech.tistory.com/403)
@@ -11,6 +12,11 @@
 ### 2) npx 설치
 ```
 npm install npx -g
+```
+
+### 3) axios 패키지 설치
+```
+npm install axios
 ```
 
 ### 3) 서버 실행방법
