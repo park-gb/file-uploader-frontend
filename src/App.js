@@ -1,6 +1,6 @@
 import './App.css';
 import React, {Component} from 'react';
-import axios from 'axios';
+import axios from 'axios'; // npm install axios
 
 class App extends Component{
   state = {
@@ -18,7 +18,7 @@ class App extends Component{
       this.state.selectedFile,
       this.state.selectedFile.name
     )
-    axios.post("API Gateway URL", formData).then(() => {
+    axios.post("API Gateway URL", formData).then(() => { // API Gateway URL 입력
       this.setState({selectedFile: null});
       this.setState({fileUploadedSuccessfully: true});
     })
