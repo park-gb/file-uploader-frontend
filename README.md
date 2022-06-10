@@ -5,7 +5,7 @@
 - [파일 업로드 웹 페이지 구축: (1) React 기반 Frontend 개발](https://heytech.tistory.com/403)
 - [파일 업로드 웹 페이지 구축: (7) Axios 기반 API Call](https://heytech.tistory.com/409)
 
-## 1. Requirement
+## Requirement
 ### 1) node 설치
 - [설치 링크](https://nodejs.org/ko/download/)
 - 버전: LTS(16.15.1, npm 포함)
@@ -24,12 +24,11 @@ npm install axios
 - 터미널에서 프로젝트 폴더에 접근한 후 ```npm start``` 입력을  통해 서버 실행
 - 브라우저에서 3000번 포트에 localhost 열리면 서버 실행 성공
 
-## 2. 웹 호스팅
-- - [파일 업로드 웹 페이지 구축: (9) AWS S3 기반 웹 호스팅](https://heytech.tistory.com/411)
-
-
-## 3. 실행 결과
+## 실행 결과
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/80144296/172520734-66186f43-512a-453d-8bd9-59233444111e.gif)
+
+- [파일 업로드 웹 페이지 구축: (8) 파일 업로드 테스트](https://heytech.tistory.com/410)
+- [파일 업로드 웹 페이지 구축: (9) AWS S3 기반 웹 호스팅](https://heytech.tistory.com/411)
 
 
 ## 참고자료
