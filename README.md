@@ -24,7 +24,11 @@ npm install axios
 - 터미널에서 프로젝트 폴더에 접근한 후 ```npm start``` 입력을  통해 서버 실행
 - 브라우저에서 3000번 포트에 localhost 열리면 서버 실행 성공
 
-## 2. 실행 결과
+## 2. 웹 호스팅
+- - [파일 업로드 웹 페이지 구축: (9) AWS S3 기반 웹 호스팅](https://heytech.tistory.com/411)
+
+
+## 3. 실행 결과
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/80144296/172520734-66186f43-512a-453d-8bd9-59233444111e.gif)
 
 
