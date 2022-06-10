@@ -36,5 +36,6 @@ npm install axios
 - [파일 업로드 웹 페이지 구축: (5) AWS API Gateway 생성](https://heytech.tistory.com/407)
 - [파일 업로드 웹 페이지 구축: (6) AWS Lambda 함수 작성](https://heytech.tistory.com/408)
 - [파일 업로드 웹 페이지 구축: (7) Axios 기반 API Call](https://heytech.tistory.com/409)
-- [파일 업로드 웹 페이지 구축: (8) 업로드 테스트](https://heytech.tistory.com/410)
+- [파일 업로드 웹 페이지 구축: (8) 파일 업로드 테스트](https://heytech.tistory.com/410)
+- [파일 업로드 웹 페이지 구축: (9) AWS S3 기반 웹 호스팅](https://heytech.tistory.com/411)
 - [How to Build a File Upload System on AWS with React and a Serverless API | Lambda, S3, API Gateway](https://www.youtube.com/watch?v=IgAE-ycnb94)
